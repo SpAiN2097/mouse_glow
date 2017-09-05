@@ -1,12 +1,16 @@
 {
   "name": "mouse_glow",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chrome glow effect under pointer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybot1711/mouse_glow.git"
+  },
+  "keywords": ["javascript", "utility", "ux"],
+  "author": "Jahil Khalfe",
   "license": "ISC"
 }
